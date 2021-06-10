@@ -1,0 +1,25 @@
+{
+  "name": "maps-page",
+  "version": "0.1.0",
+  "description": "An interactive image map of a school's community",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulamusicMedia/maps-page.git"
+  },
+  "keywords": [
+    "image",
+    "map",
+    "instructional",
+    "design"
+  ],
+  "author": "Jim Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pulamusicMedia/maps-page/issues"
+  },
+  "homepage": "https://github.com/pulamusicMedia/maps-page#readme"
+}
